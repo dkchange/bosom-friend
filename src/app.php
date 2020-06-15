@@ -2,7 +2,7 @@
 /**
  * Date: 2020/6/15 09:50
  */
-namespace bosomFriend;
+namespace BosomFriend;
 
 class App{
     public function index(){
