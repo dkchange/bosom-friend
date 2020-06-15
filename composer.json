@@ -1,0 +1,12 @@
+{
+    "name": "stanley/bosom-friend",
+    "description": "hello world",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BosomFriend\\": "src/"
+        }
+    },
+    "require": {}
+}
